@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ViewBinding</string>
+    <string name="new_activity_text_view">New Activity Text View</string>
+    <string name="go_to_new_activity">Go To New Activity</string>
+</resources>
